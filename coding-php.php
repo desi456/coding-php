@@ -7,7 +7,7 @@
 $nama = array(
 "Andri",
 "Joko",
-"intan",
+"Rita",
 echo $nama[0];
 echo"<br>";
 echo$nama[1];
