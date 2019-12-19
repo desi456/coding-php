@@ -7,9 +7,12 @@
 $nama = array(
 "Andri",
 "Joko",
+"intan",
 echo $nama[0];
 echo"<br>";
 echo$nama[1];
+echo"<br>";
+ echo$nama[2];
 echo"<br>";
 ?>
 </body>
